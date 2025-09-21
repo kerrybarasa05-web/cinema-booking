@@ -12,3 +12,4 @@ A simple and interactive cinema booking system where users can browse movies, se
 1. Clone this repository:
    ```bash
    git clone https://github.com/kerrybarasa05-web/cinema-booking.git
+
